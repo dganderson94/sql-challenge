@@ -1,1 +1,2 @@
-# sql-challenge
+# SQL Challenge
+This repository contains the data contained in a PostgreSQL database for employees working at a company. The database has information about individual employees, their salaries, the departments they work in, the managers of those departments, and any titles employees may have. The respository also contains an Entity Relationship Diagram summarizing these connections, as well as the schema for creating the database and importing data from several CSV files. Lastly, it has a file containing handful of queries for getting various pieces of information from the database.
